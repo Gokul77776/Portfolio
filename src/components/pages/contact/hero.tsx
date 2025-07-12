@@ -140,7 +140,7 @@ export function Hero() {
         </div>
 
         {/* Right: Image */}
-        <div className="w-full md:w-1/2 flex justify-center">
+        <div className="w-full md:w-1/2 flex justify-center mt-5 pt-9 relative top-26 md:top-0 ">
           <img
             src="/contact.svg"
             alt="Contact Illustration"
