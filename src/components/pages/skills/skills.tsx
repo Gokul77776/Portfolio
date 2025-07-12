@@ -20,7 +20,7 @@ export function SkillIKnow() {
             <li>React.js</li>
             <li>JavaScript (ES6+)</li>
             <li>Tailwind CSS</li>
-            <li>HTML5 & CSS3</li>
+            <li>Nextjs</li>
             <li>Responsive Design</li>
           </ul>
         </div>
@@ -47,6 +47,7 @@ export function SkillIKnow() {
           <h2 className="text-3xl font-semibold">Backend Development</h2>
           <ul className="list-disc list-inside text-lg text-gray-600 space-y-1">
             <li>Node.js</li>
+            <li>nextjs</li>
             <li>Express.js</li>
             <li>MongoDB</li>
             <li>Mongoose</li>

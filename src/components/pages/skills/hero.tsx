@@ -13,7 +13,7 @@ export function Hero() {
         <section className="relative w-full h-screen overflow-hidden"
         data-aos="fade-down" data-aos-delay="200"
         >
-            <div className="relative z-10 flex justify-around items-center mx-auto h-full px-4 ">
+            <div className="relative z-10 flex flex-col-reverse md:flex-row md:justify-around md:items-center mx-auto h-full px-4 ">
                 <div className="w-full md:w-1/2 md:m-10">
                     <h1 className="text-2xl md:text-6xl py-4 m-2"
                     data-aos="fade-down" data-aos-delay="300"
@@ -48,7 +48,7 @@ export function Hero() {
                     </div>
                 </div>
 
-                <div className="hidden md:flex w-full md:w-1/2 justify-center items-center mb-8 md:mb-0">
+                <div className=" md:flex w-full md:w-1/2 justify-center items-center mb-8 md:mb-0">
                     <img
                         src="/skills.svg"
                         alt="Web Illustration"

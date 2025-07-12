@@ -10,8 +10,8 @@ export function Tools(){
     const navigate = useNavigate();
 
     return(
-        <section className=" w-full h-screen overflow-hidden">
-            <h1 className="text-center text-3xl md:text-7xl font-bold font-lora mt-5 pt-8 relative top-10"
+        <section className=" w-full h-screen overflow-hidden m-5">
+            <h1 className="text-center text-3xl md:text-7xl font-bold font-lora mt-5 pt-8 "
                 data-aos="fade-down" data-aos-delay="200"
             >Tools & Technologies</h1>
              <div className="md:flex md:items-center  md:mx-8  w-full"
