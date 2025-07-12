@@ -51,7 +51,7 @@ export function Hero() {
                     </div>
                 </div>
 
-                <div className=" md:flex w-full md:w-1/2 justify-center items-center mt-5 pt-5  mb-8 md:mb-0">
+                <div className=" md:flex w-full md:w-1/2 justify-center items-center mt-5 pt-9 relative top-20 md:top-0  mb-8 md:mb-0">
                     <img
                         src="/about.png"
                         alt="Web Illustration"
